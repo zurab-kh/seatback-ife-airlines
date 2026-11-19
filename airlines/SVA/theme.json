@@ -4,7 +4,7 @@
   "iata": "SV",
   "name": "Saudia",
   "callsign": "SAUDIA",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#0b8a4a",
     "accentBright": "#2cab68",
@@ -24,5 +24,8 @@
   },
   "ife": {
     "name": "Beyond"
-  }
+  },
+  "fleet": [
+    "777"
+  ]
 }

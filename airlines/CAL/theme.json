@@ -4,7 +4,7 @@
   "iata": "CI",
   "name": "China Airlines",
   "callsign": "DYNASTY",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#b05c9a",
     "accentBright": "#cc78b6",
@@ -27,5 +27,9 @@
       "#F4B48A",
       "#D7263D"
     ]
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

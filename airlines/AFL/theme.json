@@ -4,7 +4,7 @@
   "iata": "SU",
   "name": "Aeroflot",
   "callsign": "AEROFLOT",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#f28c00",
     "accentBright": "#ffa424",
@@ -29,5 +29,9 @@
     "colours": [
       "#6A3FA0"
     ]
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

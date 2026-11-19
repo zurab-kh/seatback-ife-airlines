@@ -4,7 +4,7 @@
   "iata": "JJ",
   "name": "LATAM Brasil",
   "callsign": "TAM",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "lang": "pt",
   "colors": {
     "accent": "#e8114b",
@@ -25,5 +25,9 @@
   },
   "ife": {
     "greeting": "Bem-vindos a bordo"
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

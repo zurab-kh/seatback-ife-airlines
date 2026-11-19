@@ -4,7 +4,7 @@
   "iata": "VN",
   "name": "Vietnam Airlines",
   "callsign": "VIET NAM AIRLINES",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#c49a42",
     "accentBright": "#dcb35c",
@@ -29,5 +29,9 @@
     "colours": [
       "#F2C46D"
     ]
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

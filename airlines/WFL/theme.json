@@ -4,7 +4,7 @@
   "iata": "2W",
   "name": "World2fly",
   "callsign": "WORLD2FLY",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "lang": "es",
   "colors": {
     "accent": "#7b4cc2",
@@ -20,5 +20,8 @@
   "logo": {
     "file": "logo.png",
     "aspect": 4.29
-  }
+  },
+  "fleet": [
+    "A350"
+  ]
 }

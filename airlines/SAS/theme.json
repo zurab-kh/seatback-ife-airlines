@@ -4,7 +4,7 @@
   "iata": "SK",
   "name": "SAS",
   "callsign": "SCANDINAVIAN",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#3a66c8",
     "accentBright": "#5a84e4",
@@ -29,5 +29,8 @@
     "colours": [
       "#F3B07A"
     ]
-  }
+  },
+  "fleet": [
+    "A350"
+  ]
 }

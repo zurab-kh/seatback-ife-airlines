@@ -4,7 +4,7 @@
   "iata": "E9",
   "name": "Iberojet",
   "callsign": "EVELOP",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "lang": "es",
   "colors": {
     "accent": "#0091c2",
@@ -20,5 +20,8 @@
   "logo": {
     "file": "logo.png",
     "aspect": 2.38
-  }
+  },
+  "fleet": [
+    "A350"
+  ]
 }

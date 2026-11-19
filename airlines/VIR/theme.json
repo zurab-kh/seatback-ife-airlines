@@ -4,7 +4,7 @@
   "iata": "VS",
   "name": "Virgin Atlantic",
   "callsign": "VIRGIN",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#da0530",
     "accentBright": "#f2204a",
@@ -30,5 +30,9 @@
       "#7B3F9E",
       "#E05A9C"
     ]
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

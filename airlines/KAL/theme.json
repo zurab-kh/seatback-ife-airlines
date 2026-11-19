@@ -4,7 +4,7 @@
   "iata": "KE",
   "name": "Korean Air",
   "callsign": "KOREANAIR",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#1f8ad6",
     "accentBright": "#45a6ec",
@@ -19,5 +19,9 @@
   "logo": {
     "file": "logo.png",
     "aspect": 6.53
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

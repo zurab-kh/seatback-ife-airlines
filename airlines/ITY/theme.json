@@ -4,7 +4,7 @@
   "iata": "AZ",
   "name": "ITA Airways",
   "callsign": "ITARROW",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "lang": "it",
   "colors": {
     "accent": "#1c55d8",
@@ -23,5 +23,9 @@
   },
   "ife": {
     "greeting": "Benvenuti a bordo"
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

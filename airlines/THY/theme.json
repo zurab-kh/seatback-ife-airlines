@@ -4,7 +4,7 @@
   "iata": "TK",
   "name": "Turkish Airlines",
   "callsign": "TURKISH",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "lang": "tr",
   "colors": {
     "accent": "#c8102e",
@@ -26,5 +26,9 @@
   "ife": {
     "name": "planet",
     "greeting": "Hoş geldiniz"
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

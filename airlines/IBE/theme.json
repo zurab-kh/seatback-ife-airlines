@@ -4,7 +4,7 @@
   "iata": "IB",
   "name": "Iberia",
   "callsign": "IBERIA",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "lang": "es",
   "colors": {
     "accent": "#d7192d",
@@ -30,5 +30,8 @@
     "colours": [
       "#F2A65A"
     ]
-  }
+  },
+  "fleet": [
+    "A350"
+  ]
 }

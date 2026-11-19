@@ -4,7 +4,7 @@
   "iata": "HU",
   "name": "Hainan Airlines",
   "callsign": "HAINAN",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#d6001c",
     "accentBright": "#f03a4a",
@@ -21,5 +21,6 @@
   "logo": {
     "file": "logo.png",
     "aspect": 4.0
-  }
+  },
+  "fleet": []
 }

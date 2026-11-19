@@ -4,7 +4,7 @@
   "iata": "PR",
   "name": "Philippine Airlines",
   "callsign": "PHILIPPINE",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#2a62c8",
     "accentBright": "#4a80e0",
@@ -33,5 +33,9 @@
       "#1FA2B8",
       "#E8B4A0"
     ]
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

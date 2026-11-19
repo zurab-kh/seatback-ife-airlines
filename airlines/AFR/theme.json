@@ -4,7 +4,7 @@
   "iata": "AF",
   "name": "Air France",
   "callsign": "AIRFRANS",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "lang": "fr",
   "colors": {
     "accent": "#d6001c",
@@ -31,5 +31,9 @@
       "#2B3A67",
       "#F7C59F"
     ]
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

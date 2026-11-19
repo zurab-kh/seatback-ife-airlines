@@ -4,7 +4,7 @@
   "iata": "TX",
   "name": "Air Caraïbes",
   "callsign": "FRENCH WEST",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "lang": "fr",
   "colors": {
     "accent": "#2e7fc8",
@@ -25,5 +25,8 @@
   },
   "ife": {
     "greeting": "Bienvenue à bord"
-  }
+  },
+  "fleet": [
+    "A350"
+  ]
 }

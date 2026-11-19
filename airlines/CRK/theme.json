@@ -4,7 +4,7 @@
   "iata": "HX",
   "name": "Hong Kong Airlines",
   "callsign": "BAUHINIA",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#c41e3a",
     "accentBright": "#e8455c",
@@ -19,5 +19,8 @@
   "logo": {
     "file": "logo.png",
     "aspect": 4.95
-  }
+  },
+  "fleet": [
+    "A350"
+  ]
 }

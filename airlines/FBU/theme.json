@@ -4,7 +4,7 @@
   "iata": "BF",
   "name": "French bee",
   "callsign": "FRENCH BEE",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "lang": "fr",
   "colors": {
     "accent": "#1f8fe0",
@@ -25,5 +25,8 @@
   },
   "ife": {
     "greeting": "Bienvenue à bord"
-  }
+  },
+  "fleet": [
+    "A350"
+  ]
 }

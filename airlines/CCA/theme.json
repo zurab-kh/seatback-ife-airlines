@@ -4,7 +4,7 @@
   "iata": "CA",
   "name": "Air China",
   "callsign": "AIR CHINA",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#d7141e",
     "accentBright": "#f03038",
@@ -21,5 +21,9 @@
   "logo": {
     "file": "logo.png",
     "aspect": 3.21
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

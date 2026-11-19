@@ -4,7 +4,7 @@
   "iata": "TG",
   "name": "Thai Airways",
   "callsign": "THAI",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#b04cc0",
     "accentBright": "#c86ad6",
@@ -28,5 +28,9 @@
       "#C2408F",
       "#E8873A"
     ]
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

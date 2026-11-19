@@ -4,7 +4,7 @@
   "iata": "AY",
   "name": "Finnair",
   "callsign": "FINNAIR",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#3d6bd6",
     "accentBright": "#5b86f0",
@@ -32,5 +32,8 @@
       "#36C9A0",
       "#F2994A"
     ]
-  }
+  },
+  "fleet": [
+    "A350"
+  ]
 }

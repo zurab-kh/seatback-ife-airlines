@@ -4,7 +4,7 @@
   "iata": "CD",
   "name": "Corendon Dutch Airlines",
   "callsign": "DUTCH CORENDON",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "lang": "nl",
   "colors": {
     "accent": "#f28c00",
@@ -20,5 +20,6 @@
   "logo": {
     "file": "logo.png",
     "aspect": 5.45
-  }
+  },
+  "fleet": []
 }

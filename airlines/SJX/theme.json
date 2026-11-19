@@ -4,7 +4,7 @@
   "iata": "JX",
   "name": "STARLUX",
   "callsign": "STARWALKER",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#b8935e",
     "accentBright": "#d4ae7a",
@@ -19,5 +19,8 @@
   "logo": {
     "file": "logo.png",
     "aspect": 4.44
-  }
+  },
+  "fleet": [
+    "A350"
+  ]
 }

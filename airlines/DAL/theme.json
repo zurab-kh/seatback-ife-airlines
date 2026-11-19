@@ -4,7 +4,7 @@
   "iata": "DL",
   "name": "Delta Air Lines",
   "callsign": "DELTA",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#c01933",
     "accentBright": "#e03550",
@@ -29,5 +29,9 @@
     "colours": [
       "#F4B266"
     ]
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

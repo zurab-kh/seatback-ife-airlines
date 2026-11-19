@@ -4,7 +4,7 @@
   "iata": "MK",
   "name": "Air Mauritius",
   "callsign": "AIRMAURITIUS",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#d7192d",
     "accentBright": "#f03448",
@@ -24,5 +24,8 @@
   },
   "ife": {
     "greeting": "Bienvenue à bord"
-  }
+  },
+  "fleet": [
+    "A350"
+  ]
 }

@@ -4,7 +4,7 @@
   "iata": "SQ",
   "name": "Singapore Airlines",
   "callsign": "SINGAPORE",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#d39b1e",
     "accentBright": "#f0b73a",
@@ -25,5 +25,9 @@
   "ife": {
     "name": "KrisWorld",
     "greeting": "Selamat datang"
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

@@ -4,7 +4,7 @@
   "iata": "LX",
   "name": "Swiss",
   "callsign": "SWISS",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "lang": "de",
   "colors": {
     "accent": "#e1001a",
@@ -25,5 +25,9 @@
   },
   "ife": {
     "greeting": "Willkommen an Bord"
-  }
+  },
+  "fleet": [
+    "A350",
+    "777"
+  ]
 }

@@ -4,7 +4,7 @@
   "iata": "BG",
   "name": "Biman Bangladesh Airlines",
   "callsign": "BANGLADESH",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "colors": {
     "accent": "#e4002b",
     "accentBright": "#f5304e",
@@ -19,5 +19,8 @@
   "logo": {
     "file": "logo.png",
     "aspect": 6.71
-  }
+  },
+  "fleet": [
+    "777"
+  ]
 }
