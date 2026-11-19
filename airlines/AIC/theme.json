@@ -4,7 +4,7 @@
   "iata": "AI",
   "name": "Air India",
   "callsign": "AIRINDIA",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "colors": {
     "accent": "#d9252b",
     "accentBright": "#f04046",
@@ -23,7 +23,11 @@
     "aspect": 4.32
   },
   "ife": {
-    "name": "Vista"
+    "name": "Vista",
+    "greetingImage": {
+      "file": "greeting.png",
+      "aspect": 2.427
+    }
   },
   "fleet": [
     "A350",

@@ -26,7 +26,7 @@
   {
    "icao": "AAR",
    "name": "Asiana Airlines",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#b28a5c",
    "ground": "#0b1626",
    "fleet": [
@@ -35,14 +35,19 @@
    ],
    "files": [
     {
+     "path": "AAR/greeting.png",
+     "size": 5641,
+     "sha1": "f4442df3bb58bcebc09ea757d09f263d44808692"
+    },
+    {
      "path": "AAR/logo.png",
      "size": 14933,
      "sha1": "612a2e69325e54ac54b6bd4d000049ba7cecee7a"
     },
     {
      "path": "AAR/theme.json",
-     "size": 433,
-     "sha1": "5aff59719cdd05fe5c1aaf11d8d27c07064f659f"
+     "size": 534,
+     "sha1": "178a9afd43bc8a98256eafdf513abb96521ef7cf"
     }
    ]
   },
@@ -91,7 +96,7 @@
   {
    "icao": "AFL",
    "name": "Aeroflot",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#f28c00",
    "ground": "#070f1d",
    "fleet": [
@@ -106,8 +111,8 @@
     },
     {
      "path": "AFL/theme.json",
-     "size": 628,
-     "sha1": "ee974189703d45e6d27f44c074370f34ee40bb26"
+     "size": 645,
+     "sha1": "550e4fd2942fdfe57bf75571ed9108c9448524cd"
     }
    ]
   },
@@ -137,7 +142,7 @@
   {
    "icao": "AIC",
    "name": "Air India",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#d9252b",
    "ground": "#1d070a",
    "fleet": [
@@ -146,21 +151,26 @@
    ],
    "files": [
     {
+     "path": "AIC/greeting.png",
+     "size": 4981,
+     "sha1": "a173091143d55b2f332aed91c6aa3a9442729c30"
+    },
+    {
      "path": "AIC/logo.png",
      "size": 18399,
      "sha1": "3ca77e266079c59dfb10780381fc6b1b1ab4b425"
     },
     {
      "path": "AIC/theme.json",
-     "size": 518,
-     "sha1": "2ee60a60b39ef1808f57200d8a15d9a42d745280"
+     "size": 604,
+     "sha1": "f7f6eb7950b5df5711cdc0933c0a8f11a650ceee"
     }
    ]
   },
   {
    "icao": "ANA",
    "name": "ANA",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#2a64c8",
    "ground": "#070d1d",
    "fleet": [
@@ -168,14 +178,19 @@
    ],
    "files": [
     {
+     "path": "ANA/greeting.png",
+     "size": 5653,
+     "sha1": "9443e99376794243b5b791d6dad34075dd5454a4"
+    },
+    {
      "path": "ANA/logo.png",
      "size": 25098,
      "sha1": "2825f06c21f8c600b030f83df8ecbe2b02793324"
     },
     {
      "path": "ANA/theme.json",
-     "size": 462,
-     "sha1": "45bf06cc5101be78ca651bf8b3832099f16c6422"
+     "size": 565,
+     "sha1": "f51b28312bea8ae386ce0e6588a151e547526d26"
     }
    ]
   },
@@ -249,7 +264,7 @@
   {
    "icao": "CAL",
    "name": "China Airlines",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#b05c9a",
    "ground": "#0a0f19",
    "fleet": [
@@ -258,21 +273,26 @@
    ],
    "files": [
     {
+     "path": "CAL/greeting.png",
+     "size": 10337,
+     "sha1": "ff706d2bbf5446b0f6d2e7fbeb6b35435871c0f4"
+    },
+    {
      "path": "CAL/logo.png",
      "size": 41514,
      "sha1": "7347b65e167d14116012ef2bd275bc177517fab3"
     },
     {
      "path": "CAL/theme.json",
-     "size": 568,
-     "sha1": "480d0340d1883e873362b84024de1d6d6ec26302"
+     "size": 671,
+     "sha1": "189a3d7ad06ed6f70a17c24a10ab0ec919b189ad"
     }
    ]
   },
   {
    "icao": "CCA",
    "name": "Air China",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#d7141e",
    "ground": "#1d0708",
    "fleet": [
@@ -281,21 +301,26 @@
    ],
    "files": [
     {
+     "path": "CCA/greeting.png",
+     "size": 8958,
+     "sha1": "6ae2482bf55f032461659c743855827b4aea57a7"
+    },
+    {
      "path": "CCA/logo.png",
      "size": 43413,
      "sha1": "f1483d79b17bac0921282813bb8843e0e3054a4e"
     },
     {
      "path": "CCA/theme.json",
-     "size": 480,
-     "sha1": "c5ab93d7faa9c53c8ee93ff7b9d3b430ca466f81"
+     "size": 583,
+     "sha1": "1352134f09c3153eb6886cca995902a022467559"
     }
    ]
   },
   {
    "icao": "CES",
    "name": "China Eastern",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#b8202a",
    "ground": "#1d0707",
    "fleet": [
@@ -304,25 +329,35 @@
    ],
    "files": [
     {
+     "path": "CES/greeting.png",
+     "size": 8958,
+     "sha1": "6ae2482bf55f032461659c743855827b4aea57a7"
+    },
+    {
      "path": "CES/logo.png",
      "size": 30767,
      "sha1": "c82ff27f153881cd559ca5400a41bf98d13eb6c2"
     },
     {
      "path": "CES/theme.json",
-     "size": 488,
-     "sha1": "2836257baff935852d1e629cee6da1265dec4d8a"
+     "size": 591,
+     "sha1": "608ddae9bede4c18f9e323857b5636156a1684a6"
     }
    ]
   },
   {
    "icao": "CHH",
    "name": "Hainan Airlines",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#d6001c",
    "ground": "#1d0709",
    "fleet": [],
    "files": [
+    {
+     "path": "CHH/greeting.png",
+     "size": 8958,
+     "sha1": "6ae2482bf55f032461659c743855827b4aea57a7"
+    },
     {
      "path": "CHH/logo.png",
      "size": 36590,
@@ -330,8 +365,8 @@
     },
     {
      "path": "CHH/theme.json",
-     "size": 454,
-     "sha1": "4f63d28a29fa5aabb4bdee7e5fe9154771753fba"
+     "size": 557,
+     "sha1": "17d814a1d328f5319d5f96b13d86bbfc4e9e1284"
     }
    ]
   },
@@ -358,7 +393,7 @@
   {
    "icao": "CPA",
    "name": "Cathay Pacific",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#00807a",
    "ground": "#071d1d",
    "fleet": [
@@ -367,21 +402,26 @@
    ],
    "files": [
     {
+     "path": "CPA/greeting.png",
+     "size": 10337,
+     "sha1": "ff706d2bbf5446b0f6d2e7fbeb6b35435871c0f4"
+    },
+    {
      "path": "CPA/logo.png",
      "size": 16821,
      "sha1": "edd5960ff9b25c102a0df53ca3b4efe94d34847f"
     },
     {
      "path": "CPA/theme.json",
-     "size": 524,
-     "sha1": "b769ad0d84c7542b19d57827f924c5aa90a86a60"
+     "size": 610,
+     "sha1": "2c2b12b5867e50bddb4d7b05cbb12ba275588a5d"
     }
    ]
   },
   {
    "icao": "CRK",
    "name": "Hong Kong Airlines",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#c41e3a",
    "ground": "#0b1626",
    "fleet": [
@@ -389,21 +429,26 @@
    ],
    "files": [
     {
+     "path": "CRK/greeting.png",
+     "size": 10337,
+     "sha1": "ff706d2bbf5446b0f6d2e7fbeb6b35435871c0f4"
+    },
+    {
      "path": "CRK/logo.png",
      "size": 27472,
      "sha1": "8d978131bf508b8937c7a8998f596c45cfe2a3c8"
     },
     {
      "path": "CRK/theme.json",
-     "size": 425,
-     "sha1": "268f2bdad7bffa4af5dd2f2ee580cbc166d0ff79"
+     "size": 528,
+     "sha1": "88431781c082d3502fa40e8e3a903efc91d7f185"
     }
    ]
   },
   {
    "icao": "CSC",
    "name": "Sichuan Airlines",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#c8102e",
    "ground": "#1d070c",
    "fleet": [
@@ -411,21 +456,26 @@
    ],
    "files": [
     {
+     "path": "CSC/greeting.png",
+     "size": 8958,
+     "sha1": "6ae2482bf55f032461659c743855827b4aea57a7"
+    },
+    {
      "path": "CSC/logo.png",
      "size": 42288,
      "sha1": "61b240390eec829c9725bb23a09ff98a18513e13"
     },
     {
      "path": "CSC/theme.json",
-     "size": 472,
-     "sha1": "b0bbf7c039c82bf949b676b9824041c9c0387b77"
+     "size": 575,
+     "sha1": "b2949dd70837442f2eef39716f6c6722ffea2023"
     }
    ]
   },
   {
    "icao": "CSN",
    "name": "China Southern",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#2b84cc",
    "ground": "#07161d",
    "fleet": [
@@ -434,14 +484,19 @@
    ],
    "files": [
     {
+     "path": "CSN/greeting.png",
+     "size": 8958,
+     "sha1": "6ae2482bf55f032461659c743855827b4aea57a7"
+    },
+    {
      "path": "CSN/logo.png",
      "size": 28884,
      "sha1": "29ee020667d4ef6222bcd03981d753500429054b"
     },
     {
      "path": "CSN/theme.json",
-     "size": 490,
-     "sha1": "080eaf8c2355eeb690c9c522b62c3ad095809fe8"
+     "size": 593,
+     "sha1": "25b1ef4af6221d90674565652de4c362a4ccac95"
     }
    ]
   },
@@ -515,7 +570,7 @@
   {
    "icao": "ETD",
    "name": "Etihad Airways",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#b8893a",
    "ground": "#1d0713",
    "fleet": [
@@ -524,21 +579,26 @@
    ],
    "files": [
     {
+     "path": "ETD/greeting.png",
+     "size": 6368,
+     "sha1": "05953d15c591c5d57cf96a6622f13eef4089ca52"
+    },
+    {
      "path": "ETD/logo.png",
      "size": 20451,
      "sha1": "c2e62db6d6b8aa8b7d3a122a8cbe8fe7dd210eea"
     },
     {
      "path": "ETD/theme.json",
-     "size": 521,
-     "sha1": "846f5cc02ed361e17bb263fefbaaecb58488cfe7"
+     "size": 607,
+     "sha1": "98097238331f15900f0fa8f73311387dcd80d237"
     }
    ]
   },
   {
    "icao": "ETH",
    "name": "Ethiopian Airlines",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#3f9b35",
    "ground": "#0f170d",
    "fleet": [
@@ -547,21 +607,26 @@
    ],
    "files": [
     {
+     "path": "ETH/greeting.png",
+     "size": 8955,
+     "sha1": "1dfeac6e22e0290a04155c2a3967d4403180b26f"
+    },
+    {
      "path": "ETH/logo.png",
      "size": 32371,
      "sha1": "b4fc13f8188c6df7bfc74ed1f64423fabc6ddd79"
     },
     {
      "path": "ETH/theme.json",
-     "size": 489,
-     "sha1": "c59ca6226aaf73d73e7f322e314e6863e6bee9cc"
+     "size": 592,
+     "sha1": "dd1fe1f20e1573f7466b4fdbc162dff8628a49a1"
     }
    ]
   },
   {
    "icao": "EVA",
    "name": "EVA Air",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#00803e",
    "ground": "#071d11",
    "fleet": [
@@ -569,14 +634,19 @@
    ],
    "files": [
     {
+     "path": "EVA/greeting.png",
+     "size": 10337,
+     "sha1": "ff706d2bbf5446b0f6d2e7fbeb6b35435871c0f4"
+    },
+    {
      "path": "EVA/logo.png",
      "size": 22897,
      "sha1": "8e355b1f4a382dd1a86558ed1a84e37a7b17f211"
     },
     {
      "path": "EVA/theme.json",
-     "size": 459,
-     "sha1": "2cd578d09be7384d9621e52580129cc51862c1a2"
+     "size": 562,
+     "sha1": "e3ef54e9781dd5c41ac394883c84dbfc03871e59"
     }
    ]
   },
@@ -783,7 +853,7 @@
   {
    "icao": "JAL",
    "name": "Japan Airlines",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#cc0000",
    "ground": "#1d0709",
    "fleet": [
@@ -792,21 +862,26 @@
    ],
    "files": [
     {
+     "path": "JAL/greeting.png",
+     "size": 5653,
+     "sha1": "9443e99376794243b5b791d6dad34075dd5454a4"
+    },
+    {
      "path": "JAL/logo.png",
      "size": 26324,
      "sha1": "9fe6e91c1483974d47e0060c5c437a0ecb1ecdda"
     },
     {
      "path": "JAL/theme.json",
-     "size": 608,
-     "sha1": "a5f70f51b3c25384b2966110eb9ef1b6c4c0e0bd"
+     "size": 694,
+     "sha1": "a8b30d3c10e89677ad86f104c2b43ea72f68db15"
     }
    ]
   },
   {
    "icao": "KAC",
    "name": "Kuwait Airways",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#2a72c8",
    "ground": "#0b0d19",
    "fleet": [
@@ -814,21 +889,26 @@
    ],
    "files": [
     {
+     "path": "KAC/greeting.png",
+     "size": 6368,
+     "sha1": "05953d15c591c5d57cf96a6622f13eef4089ca52"
+    },
+    {
      "path": "KAC/logo.png",
      "size": 40532,
      "sha1": "39d13f983db99a4c5646855d8ed84508c7650d0d"
     },
     {
      "path": "KAC/theme.json",
-     "size": 470,
-     "sha1": "9207c013930135c1e78d605896678507ee3ef746"
+     "size": 573,
+     "sha1": "d6192587b02b4479202edc8aade92f77b0b0061c"
     }
    ]
   },
   {
    "icao": "KAL",
    "name": "Korean Air",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#1f8ad6",
    "ground": "#0b1626",
    "fleet": [
@@ -837,14 +917,19 @@
    ],
    "files": [
     {
+     "path": "KAL/greeting.png",
+     "size": 5641,
+     "sha1": "f4442df3bb58bcebc09ea757d09f263d44808692"
+    },
+    {
      "path": "KAL/logo.png",
      "size": 18294,
      "sha1": "59053e11886053f57453c8b08c5344e2200feb7b"
     },
     {
      "path": "KAL/theme.json",
-     "size": 430,
-     "sha1": "ddbd1cc161fe32d4775c7b952ece29c45b88e956"
+     "size": 531,
+     "sha1": "8346cd10483e52514182b1786e734ada5ffca729"
     }
    ]
   },
@@ -938,7 +1023,7 @@
   {
    "icao": "MSR",
    "name": "EgyptAir",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#c9a646",
    "ground": "#07101d",
    "fleet": [
@@ -946,14 +1031,19 @@
    ],
    "files": [
     {
+     "path": "MSR/greeting.png",
+     "size": 5070,
+     "sha1": "f9042868d5624f4b48b6d551e54888507ded3a05"
+    },
+    {
      "path": "MSR/logo.png",
      "size": 19171,
      "sha1": "a10c54f5bb52602e94e0e97ca48fdbc55ff35cdb"
     },
     {
      "path": "MSR/theme.json",
-     "size": 465,
-     "sha1": "aaa46a558dbd9b87995e0ea27b3cdb33306c90e6"
+     "size": 568,
+     "sha1": "5dc1775673c5627a83e5c636dcdf025d9f966ca7"
     }
    ]
   },
@@ -983,7 +1073,7 @@
   {
    "icao": "PIA",
    "name": "Pakistan International Airlines",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#1f8f5a",
    "ground": "#0b1626",
    "fleet": [
@@ -991,21 +1081,26 @@
    ],
    "files": [
     {
+     "path": "PIA/greeting.png",
+     "size": 6461,
+     "sha1": "d9e8fc1d912cc16415bd83b58cae465587899dd6"
+    },
+    {
      "path": "PIA/logo.png",
      "size": 54870,
      "sha1": "299fb640189e865006f38d6b450d0e17063b9f79"
     },
     {
      "path": "PIA/theme.json",
-     "size": 437,
-     "sha1": "3b83363e96b722f18ce5c747f19c31e472983573"
+     "size": 540,
+     "sha1": "1d28778f1d648b80677e02010134586a18e70f04"
     }
    ]
   },
   {
    "icao": "QTR",
    "name": "Qatar Airways",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#a0204e",
    "ground": "#1d0712",
    "fleet": [
@@ -1014,14 +1109,19 @@
    ],
    "files": [
     {
+     "path": "QTR/greeting.png",
+     "size": 6368,
+     "sha1": "05953d15c591c5d57cf96a6622f13eef4089ca52"
+    },
+    {
      "path": "QTR/logo.png",
      "size": 43318,
      "sha1": "321f8b6209180c851cd72ef9414d53310f3e7515"
     },
     {
      "path": "QTR/theme.json",
-     "size": 523,
-     "sha1": "18fdaea8b9f48f9916d80de7869c62c164b22d75"
+     "size": 609,
+     "sha1": "60a61af82c89407e0032e1b7aa20a2487ce3a758"
     }
    ]
   },
@@ -1096,7 +1196,7 @@
   {
    "icao": "SJX",
    "name": "STARLUX",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#b8935e",
    "ground": "#0b1626",
    "fleet": [
@@ -1104,21 +1204,26 @@
    ],
    "files": [
     {
+     "path": "SJX/greeting.png",
+     "size": 10337,
+     "sha1": "ff706d2bbf5446b0f6d2e7fbeb6b35435871c0f4"
+    },
+    {
      "path": "SJX/logo.png",
      "size": 22997,
      "sha1": "e7e1a239ea783305f3fa5d620f556e0d4b001bd3"
     },
     {
      "path": "SJX/theme.json",
-     "size": 416,
-     "sha1": "2131020b28fc05d2348278acba3f3e8c2414d645"
+     "size": 519,
+     "sha1": "fa974a2a8b4486171fb39fecd013d7f80814ec75"
     }
    ]
   },
   {
    "icao": "SVA",
    "name": "Saudia",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#0b8a4a",
    "ground": "#071d11",
    "fleet": [
@@ -1126,14 +1231,19 @@
    ],
    "files": [
     {
+     "path": "SVA/greeting.png",
+     "size": 6368,
+     "sha1": "05953d15c591c5d57cf96a6622f13eef4089ca52"
+    },
+    {
      "path": "SVA/logo.png",
      "size": 40860,
      "sha1": "13e6450ad1f1044073f3b1567f44a1e7a04c2488"
     },
     {
      "path": "SVA/theme.json",
-     "size": 500,
-     "sha1": "1422b61b3f86d9a4d4559ca59ecc7a65b598a46b"
+     "size": 586,
+     "sha1": "c8ba7ec6077957d5de406981648c4a8147a1fa55"
     }
    ]
   },
@@ -1186,7 +1296,7 @@
   {
    "icao": "THA",
    "name": "Thai Airways",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#b04cc0",
    "ground": "#15071d",
    "fleet": [
@@ -1195,14 +1305,19 @@
    ],
    "files": [
     {
+     "path": "THA/greeting.png",
+     "size": 8593,
+     "sha1": "8cca93b54421ce61b456058c7473a133ba07fd85"
+    },
+    {
      "path": "THA/logo.png",
      "size": 29753,
      "sha1": "39f6765e8d38c7bb0c9a182d56055c6c6490d749"
     },
     {
      "path": "THA/theme.json",
-     "size": 581,
-     "sha1": "e318a47fda848c42da879c24418e72337ef9079f"
+     "size": 684,
+     "sha1": "607a5ae49a261f67e1fc39cd3483c792373e9caa"
     }
    ]
   },
@@ -1232,7 +1347,7 @@
   {
    "icao": "UAE",
    "name": "Emirates",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "accent": "#d71921",
    "ground": "#1c0708",
    "fleet": [
@@ -1241,14 +1356,19 @@
    ],
    "files": [
     {
+     "path": "UAE/greeting.png",
+     "size": 6368,
+     "sha1": "05953d15c591c5d57cf96a6622f13eef4089ca52"
+    },
+    {
      "path": "UAE/logo.png",
      "size": 46651,
      "sha1": "512be00824f8379d50d8aec0eef5fa063b3558d4"
     },
     {
      "path": "UAE/theme.json",
-     "size": 600,
-     "sha1": "52b1d6fb6c129c29ab57be835eb29f4bc34dbb6f"
+     "size": 686,
+     "sha1": "03e29b591b833a66ecd8e6bcafbe27caf5d6e2ed"
     }
    ]
   },

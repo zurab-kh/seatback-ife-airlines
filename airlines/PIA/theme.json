@@ -4,7 +4,7 @@
   "iata": "PK",
   "name": "Pakistan International Airlines",
   "callsign": "PAKISTAN",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "colors": {
     "accent": "#1f8f5a",
     "accentBright": "#3cae76",
@@ -22,5 +22,11 @@
   },
   "fleet": [
     "777"
-  ]
+  ],
+  "ife": {
+    "greetingImage": {
+      "file": "greeting.png",
+      "aspect": 3.302
+    }
+  }
 }

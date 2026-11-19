@@ -4,7 +4,7 @@
   "iata": "MS",
   "name": "EgyptAir",
   "callsign": "EGYPTAIR",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "colors": {
     "accent": "#c9a646",
     "accentBright": "#e2c26a",
@@ -24,5 +24,11 @@
   },
   "fleet": [
     "777"
-  ]
+  ],
+  "ife": {
+    "greetingImage": {
+      "file": "greeting.png",
+      "aspect": 2.302
+    }
+  }
 }
