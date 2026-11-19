@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "icao": "ACI",
+  "iata": "SB",
+  "name": "Aircalin",
+  "callsign": "AIRCALIN",
+  "version": "1.1.0",
+  "lang": "fr",
+  "colors": {
+    "accent": "#00a3ad",
+    "accentBright": "#2cc4cc",
+    "ground": [
+      "#130704",
+      "#1d0b07",
+      "#2d110b",
+      "#461a10",
+      "#632517"
+    ],
+    "mist": "#ddd2d0",
+    "mistDim": "#b09b96"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 4.38
+  },
+  "ife": {
+    "greeting": "Bienvenue à bord"
+  }
+}

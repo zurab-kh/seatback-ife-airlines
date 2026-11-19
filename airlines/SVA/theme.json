@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "icao": "SVA",
+  "iata": "SV",
+  "name": "Saudia",
+  "callsign": "SAUDIA",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#0b8a4a",
+    "accentBright": "#2cab68",
+    "ground": [
+      "#04130b",
+      "#071d11",
+      "#0b2d1b",
+      "#10462a",
+      "#17633b"
+    ],
+    "mist": "#d0ddd6",
+    "mistDim": "#96b0a3"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 0.8
+  },
+  "ife": {
+    "name": "Beyond"
+  }
+}

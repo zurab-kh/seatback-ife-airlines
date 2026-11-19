@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "icao": "EDW",
+  "iata": "WK",
+  "name": "Edelweiss",
+  "callsign": "EDELWEISS",
+  "version": "1.1.0",
+  "lang": "de",
+  "colors": {
+    "accent": "#e03c4b",
+    "accentBright": "#f25866",
+    "ground": [
+      "#130407",
+      "#1d070a",
+      "#2d0b10",
+      "#461019",
+      "#631724"
+    ],
+    "mist": "#ddd0d2",
+    "mistDim": "#b0969b"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 5.45
+  },
+  "ife": {
+    "greeting": "Willkommen an Bord"
+  }
+}

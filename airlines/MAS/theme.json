@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "icao": "MAS",
+  "iata": "MH",
+  "name": "Malaysia Airlines",
+  "callsign": "MALAYSIAN",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#d71f30",
+    "accentBright": "#f03a48",
+    "ground": [
+      "#040b13",
+      "#07111d",
+      "#0b1b2d",
+      "#102a46",
+      "#173b63"
+    ],
+    "mist": "#d0d6dd",
+    "mistDim": "#96a2b0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 4.0
+  },
+  "ife": {
+    "greeting": "Selamat datang"
+  }
+}

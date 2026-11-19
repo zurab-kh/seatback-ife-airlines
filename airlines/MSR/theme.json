@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "icao": "MSR",
+  "iata": "MS",
+  "name": "EgyptAir",
+  "callsign": "EGYPTAIR",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#c9a646",
+    "accentBright": "#e2c26a",
+    "ground": [
+      "#040a13",
+      "#07101d",
+      "#0b192d",
+      "#102746",
+      "#173763"
+    ],
+    "mist": "#d0d5dd",
+    "mistDim": "#96a1b0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 6.67
+  }
+}

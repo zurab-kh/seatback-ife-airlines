@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "icao": "EVA",
+  "iata": "BR",
+  "name": "EVA Air",
+  "callsign": "EVA",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#00803e",
+    "accentBright": "#22a85e",
+    "ground": [
+      "#04130b",
+      "#071d11",
+      "#0b2d1b",
+      "#10462a",
+      "#17633b"
+    ],
+    "mist": "#d0ddd6",
+    "mistDim": "#96b0a3"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 4.87
+  }
+}

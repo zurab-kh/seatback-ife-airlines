@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "icao": "WFL",
+  "iata": "2W",
+  "name": "World2fly",
+  "callsign": "WORLD2FLY",
+  "version": "1.0.0",
+  "lang": "es",
+  "colors": {
+    "accent": "#7b4cc2",
+    "accentBright": "#9d72e0",
+    "ground": [
+      "#070f1c",
+      "#0b1626",
+      "#13233a",
+      "#1f3655",
+      "#2c4a70"
+    ]
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 4.29
+  }
+}

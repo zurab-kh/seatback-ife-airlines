@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "icao": "AAL",
+  "iata": "AA",
+  "name": "American Airlines",
+  "callsign": "AMERICAN",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#0078d2",
+    "accentBright": "#3597e8",
+    "ground": [
+      "#080c0f",
+      "#0d1217",
+      "#141c24",
+      "#1f2c37",
+      "#2c3e4e"
+    ],
+    "mist": "#d0d7dd",
+    "mistDim": "#96a4b0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 6.49
+  },
+  "ife": {
+    "name": "American Airlines"
+  }
+}

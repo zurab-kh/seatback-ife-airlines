@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "icao": "KLM",
+  "iata": "KL",
+  "name": "KLM",
+  "callsign": "KLM",
+  "version": "1.1.0",
+  "lang": "nl",
+  "colors": {
+    "accent": "#00a1de",
+    "accentBright": "#2bb8f0",
+    "ground": [
+      "#040f13",
+      "#07171d",
+      "#0b242d",
+      "#103746",
+      "#174e63"
+    ],
+    "mist": "#d0d9dd",
+    "mistDim": "#96a9b0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 1.72
+  },
+  "ife": {
+    "greeting": "Welkom aan boord"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "icao": "GIA",
+  "iata": "GA",
+  "name": "Garuda Indonesia",
+  "callsign": "INDONESIA",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#0096b0",
+    "accentBright": "#2cb4cc",
+    "ground": [
+      "#070910",
+      "#0b0e18",
+      "#121626",
+      "#1c223b",
+      "#273153"
+    ],
+    "mist": "#d0d3dd",
+    "mistDim": "#969cb0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 5.42
+  },
+  "ife": {
+    "greeting": "Selamat datang"
+  }
+}

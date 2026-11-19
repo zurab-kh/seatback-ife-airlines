@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "icao": "CRK",
+  "iata": "HX",
+  "name": "Hong Kong Airlines",
+  "callsign": "BAUHINIA",
+  "version": "1.0.0",
+  "colors": {
+    "accent": "#c41e3a",
+    "accentBright": "#e8455c",
+    "ground": [
+      "#070f1c",
+      "#0b1626",
+      "#13233a",
+      "#1f3655",
+      "#2c4a70"
+    ]
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 4.95
+  }
+}

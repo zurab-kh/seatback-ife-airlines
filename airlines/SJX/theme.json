@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "icao": "SJX",
+  "iata": "JX",
+  "name": "STARLUX",
+  "callsign": "STARWALKER",
+  "version": "1.0.0",
+  "colors": {
+    "accent": "#b8935e",
+    "accentBright": "#d4ae7a",
+    "ground": [
+      "#070f1c",
+      "#0b1626",
+      "#13233a",
+      "#1f3655",
+      "#2c4a70"
+    ]
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 4.44
+  }
+}

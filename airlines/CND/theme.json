@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "icao": "CND",
+  "iata": "CD",
+  "name": "Corendon Dutch Airlines",
+  "callsign": "DUTCH CORENDON",
+  "version": "1.0.0",
+  "lang": "nl",
+  "colors": {
+    "accent": "#f28c00",
+    "accentBright": "#ffa733",
+    "ground": [
+      "#070f1c",
+      "#0b1626",
+      "#13233a",
+      "#1f3655",
+      "#2c4a70"
+    ]
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 5.45
+  }
+}

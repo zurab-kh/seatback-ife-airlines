@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "icao": "FBU",
+  "iata": "BF",
+  "name": "French bee",
+  "callsign": "FRENCH BEE",
+  "version": "1.1.0",
+  "lang": "fr",
+  "colors": {
+    "accent": "#1f8fe0",
+    "accentBright": "#42a8f2",
+    "ground": [
+      "#040b13",
+      "#07111d",
+      "#0b1b2d",
+      "#102a46",
+      "#173b63"
+    ],
+    "mist": "#d0d6dd",
+    "mistDim": "#96a3b0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 6.4
+  },
+  "ife": {
+    "greeting": "Bienvenue à bord"
+  }
+}

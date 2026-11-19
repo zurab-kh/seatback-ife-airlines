@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "icao": "AFL",
+  "iata": "SU",
+  "name": "Aeroflot",
+  "callsign": "AEROFLOT",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#f28c00",
+    "accentBright": "#ffa424",
+    "ground": [
+      "#040a13",
+      "#070f1d",
+      "#0b182d",
+      "#102546",
+      "#173463"
+    ],
+    "mist": "#d0d5dd",
+    "mistDim": "#96a0b0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 3.34
+  },
+  "ife": {
+    "greeting": "Добро пожаловать на борт"
+  },
+  "cabinLight": {
+    "colours": [
+      "#6A3FA0"
+    ]
+  }
+}

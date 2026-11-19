@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "icao": "MAU",
+  "iata": "MK",
+  "name": "Air Mauritius",
+  "callsign": "AIRMAURITIUS",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#d7192d",
+    "accentBright": "#f03448",
+    "ground": [
+      "#130405",
+      "#1d0708",
+      "#2d0b0c",
+      "#461013",
+      "#63171a"
+    ],
+    "mist": "#ddd0d0",
+    "mistDim": "#b09697"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 4.29
+  },
+  "ife": {
+    "greeting": "Bienvenue à bord"
+  }
+}

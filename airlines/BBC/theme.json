@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "icao": "BBC",
+  "iata": "BG",
+  "name": "Biman Bangladesh Airlines",
+  "callsign": "BANGLADESH",
+  "version": "1.0.0",
+  "colors": {
+    "accent": "#e4002b",
+    "accentBright": "#f5304e",
+    "ground": [
+      "#070f1c",
+      "#0b1626",
+      "#13233a",
+      "#1f3655",
+      "#2c4a70"
+    ]
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 6.71
+  }
+}

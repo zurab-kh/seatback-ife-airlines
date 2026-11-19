@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "icao": "QTR",
+  "iata": "QR",
+  "name": "Qatar Airways",
+  "callsign": "QATARI",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#a0204e",
+    "accentBright": "#c43a6c",
+    "ground": [
+      "#13040c",
+      "#1d0712",
+      "#2d0b1c",
+      "#46102c",
+      "#63173e"
+    ],
+    "mist": "#ddd0d6",
+    "mistDim": "#b096a3"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 3.54
+  },
+  "ife": {
+    "name": "Oryx One"
+  }
+}

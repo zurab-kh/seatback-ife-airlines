@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "icao": "DAL",
+  "iata": "DL",
+  "name": "Delta Air Lines",
+  "callsign": "DELTA",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#c01933",
+    "accentBright": "#e03550",
+    "ground": [
+      "#040b13",
+      "#07111d",
+      "#0b1b2d",
+      "#102a46",
+      "#173c63"
+    ],
+    "mist": "#d0d6dd",
+    "mistDim": "#96a3b0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 6.49
+  },
+  "ife": {
+    "name": "Delta Studio"
+  },
+  "cabinLight": {
+    "colours": [
+      "#F4B266"
+    ]
+  }
+}

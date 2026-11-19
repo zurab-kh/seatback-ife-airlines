@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "icao": "HVN",
+  "iata": "VN",
+  "name": "Vietnam Airlines",
+  "callsign": "VIET NAM AIRLINES",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#c49a42",
+    "accentBright": "#dcb35c",
+    "ground": [
+      "#041013",
+      "#07191d",
+      "#0b272d",
+      "#103c46",
+      "#175563"
+    ],
+    "mist": "#d0dadd",
+    "mistDim": "#96abb0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 7.93
+  },
+  "ife": {
+    "greeting": "Kính chào quý khách"
+  },
+  "cabinLight": {
+    "colours": [
+      "#F2C46D"
+    ]
+  }
+}

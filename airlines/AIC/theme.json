@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "icao": "AIC",
+  "iata": "AI",
+  "name": "Air India",
+  "callsign": "AIRINDIA",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#d9252b",
+    "accentBright": "#f04046",
+    "ground": [
+      "#130407",
+      "#1d070a",
+      "#2d0b10",
+      "#461019",
+      "#631723"
+    ],
+    "mist": "#ddd0d2",
+    "mistDim": "#b0969a"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 4.32
+  },
+  "ife": {
+    "name": "Vista"
+  }
+}

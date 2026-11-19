@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "icao": "CAL",
+  "iata": "CI",
+  "name": "China Airlines",
+  "callsign": "DYNASTY",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#b05c9a",
+    "accentBright": "#cc78b6",
+    "ground": [
+      "#070a10",
+      "#0a0f19",
+      "#101828",
+      "#19243e",
+      "#233357"
+    ],
+    "mist": "#d0d4dd",
+    "mistDim": "#969eb0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 6.67
+  },
+  "cabinLight": {
+    "colours": [
+      "#F4B48A",
+      "#D7263D"
+    ]
+  }
+}

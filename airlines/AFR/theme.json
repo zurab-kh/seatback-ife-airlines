@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "icao": "AFR",
+  "iata": "AF",
+  "name": "Air France",
+  "callsign": "AIRFRANS",
+  "version": "1.1.0",
+  "lang": "fr",
+  "colors": {
+    "accent": "#d6001c",
+    "accentBright": "#f0283f",
+    "ground": [
+      "#040a13",
+      "#070f1d",
+      "#0b182d",
+      "#102546",
+      "#173463"
+    ],
+    "mist": "#d0d5dd",
+    "mistDim": "#96a0b0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 10.43
+  },
+  "ife": {
+    "greeting": "Bienvenue à bord"
+  },
+  "cabinLight": {
+    "colours": [
+      "#2B3A67",
+      "#F7C59F"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "icao": "KAC",
+  "iata": "KU",
+  "name": "Kuwait Airways",
+  "callsign": "KUWAITI",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#2a72c8",
+    "accentBright": "#4a8ee2",
+    "ground": [
+      "#070910",
+      "#0b0d19",
+      "#111527",
+      "#1a213d",
+      "#252e56"
+    ],
+    "mist": "#d0d2dd",
+    "mistDim": "#969bb0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 2.74
+  }
+}

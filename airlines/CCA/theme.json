@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "icao": "CCA",
+  "iata": "CA",
+  "name": "Air China",
+  "callsign": "AIR CHINA",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#d7141e",
+    "accentBright": "#f03038",
+    "ground": [
+      "#130405",
+      "#1d0708",
+      "#2d0b0c",
+      "#461013",
+      "#63171a"
+    ],
+    "mist": "#ddd0d0",
+    "mistDim": "#b09697"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 3.21
+  }
+}

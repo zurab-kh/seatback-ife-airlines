@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "icao": "ETH",
+  "iata": "ET",
+  "name": "Ethiopian Airlines",
+  "callsign": "ETHIOPIAN",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#3f9b35",
+    "accentBright": "#5cbc50",
+    "ground": [
+      "#0a0f08",
+      "#0f170d",
+      "#182414",
+      "#25371f",
+      "#354e2c"
+    ],
+    "mist": "#d3ddd0",
+    "mistDim": "#9db096"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 2.37
+  }
+}

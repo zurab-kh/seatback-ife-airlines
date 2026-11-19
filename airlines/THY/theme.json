@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "icao": "THY",
+  "iata": "TK",
+  "name": "Turkish Airlines",
+  "callsign": "TURKISH",
+  "version": "1.1.0",
+  "lang": "tr",
+  "colors": {
+    "accent": "#c8102e",
+    "accentBright": "#e8304a",
+    "ground": [
+      "#130405",
+      "#1d0707",
+      "#2d0b0b",
+      "#461011",
+      "#631718"
+    ],
+    "mist": "#ddd0d0",
+    "mistDim": "#b09697"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 3.71
+  },
+  "ife": {
+    "name": "planet",
+    "greeting": "Hoş geldiniz"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "icao": "CSC",
+  "iata": "3U",
+  "name": "Sichuan Airlines",
+  "callsign": "SICHUAN",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#c8102e",
+    "accentBright": "#e8304a",
+    "ground": [
+      "#130408",
+      "#1d070c",
+      "#2d0b13",
+      "#46101d",
+      "#631729"
+    ],
+    "mist": "#ddd0d3",
+    "mistDim": "#b0969c"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 4.0
+  }
+}

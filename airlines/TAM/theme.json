@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "icao": "TAM",
+  "iata": "JJ",
+  "name": "LATAM Brasil",
+  "callsign": "TAM",
+  "version": "1.1.0",
+  "lang": "pt",
+  "colors": {
+    "accent": "#e8114b",
+    "accentBright": "#f53d6c",
+    "ground": [
+      "#090413",
+      "#0d071d",
+      "#150b2d",
+      "#201046",
+      "#2e1763"
+    ],
+    "mist": "#d4d0dd",
+    "mistDim": "#9e96b0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 4.23
+  },
+  "ife": {
+    "greeting": "Bem-vindos a bordo"
+  }
+}

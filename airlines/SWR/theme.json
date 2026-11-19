@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "icao": "SWR",
+  "iata": "LX",
+  "name": "Swiss",
+  "callsign": "SWISS",
+  "version": "1.1.0",
+  "lang": "de",
+  "colors": {
+    "accent": "#e1001a",
+    "accentBright": "#f52a3a",
+    "ground": [
+      "#130405",
+      "#1d0707",
+      "#2d0b0b",
+      "#461012",
+      "#631719"
+    ],
+    "mist": "#ddd0d0",
+    "mistDim": "#b09697"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 4.3
+  },
+  "ife": {
+    "greeting": "Willkommen an Bord"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "icao": "KAL",
+  "iata": "KE",
+  "name": "Korean Air",
+  "callsign": "KOREANAIR",
+  "version": "1.0.0",
+  "colors": {
+    "accent": "#1f8ad6",
+    "accentBright": "#45a6ec",
+    "ground": [
+      "#070f1c",
+      "#0b1626",
+      "#13233a",
+      "#1f3655",
+      "#2c4a70"
+    ]
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 6.53
+  }
+}

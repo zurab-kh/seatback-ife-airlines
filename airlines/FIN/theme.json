@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "icao": "FIN",
+  "iata": "AY",
+  "name": "Finnair",
+  "callsign": "FINNAIR",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#3d6bd6",
+    "accentBright": "#5b86f0",
+    "ground": [
+      "#070413",
+      "#0a071d",
+      "#100b2d",
+      "#191046",
+      "#231763"
+    ],
+    "mist": "#d2d0dd",
+    "mistDim": "#9a96b0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 9.06
+  },
+  "ife": {
+    "name": "Nordic Sky",
+    "greeting": "Tervetuloa"
+  },
+  "cabinLight": {
+    "colours": [
+      "#3D6FD9",
+      "#36C9A0",
+      "#F2994A"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "icao": "THA",
+  "iata": "TG",
+  "name": "Thai Airways",
+  "callsign": "THAI",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#b04cc0",
+    "accentBright": "#c86ad6",
+    "ground": [
+      "#0e0413",
+      "#15071d",
+      "#210b2d",
+      "#331046",
+      "#481763"
+    ],
+    "mist": "#d8d0dd",
+    "mistDim": "#a796b0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 3.39
+  },
+  "cabinLight": {
+    "colours": [
+      "#5B2A86",
+      "#C2408F",
+      "#E8873A"
+    ]
+  }
+}

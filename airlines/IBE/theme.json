@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "icao": "IBE",
+  "iata": "IB",
+  "name": "Iberia",
+  "callsign": "IBERIA",
+  "version": "1.1.0",
+  "lang": "es",
+  "colors": {
+    "accent": "#d7192d",
+    "accentBright": "#f03448",
+    "ground": [
+      "#130406",
+      "#1d0709",
+      "#2d0b0e",
+      "#461116",
+      "#63181f"
+    ],
+    "mist": "#ddd0d1",
+    "mistDim": "#b09699"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 4.53
+  },
+  "ife": {
+    "greeting": "Bienvenidos a bordo"
+  },
+  "cabinLight": {
+    "colours": [
+      "#F2A65A"
+    ]
+  }
+}

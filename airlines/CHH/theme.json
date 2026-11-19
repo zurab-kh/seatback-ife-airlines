@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "icao": "CHH",
+  "iata": "HU",
+  "name": "Hainan Airlines",
+  "callsign": "HAINAN",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#d6001c",
+    "accentBright": "#f03a4a",
+    "ground": [
+      "#130405",
+      "#1d0709",
+      "#2d0b0d",
+      "#461015",
+      "#63171d"
+    ],
+    "mist": "#ddd0d1",
+    "mistDim": "#b09698"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 4.0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "icao": "SIA",
+  "iata": "SQ",
+  "name": "Singapore Airlines",
+  "callsign": "SINGAPORE",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#d39b1e",
+    "accentBright": "#f0b73a",
+    "ground": [
+      "#040913",
+      "#070f1d",
+      "#0b172d",
+      "#102346",
+      "#173263"
+    ],
+    "mist": "#d0d4dd",
+    "mistDim": "#969fb0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 2.72
+  },
+  "ife": {
+    "name": "KrisWorld",
+    "greeting": "Selamat datang"
+  }
+}

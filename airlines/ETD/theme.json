@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "icao": "ETD",
+  "iata": "EY",
+  "name": "Etihad Airways",
+  "callsign": "ETIHAD",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#b8893a",
+    "accentBright": "#d4a552",
+    "ground": [
+      "#13040c",
+      "#1d0713",
+      "#2d0b1d",
+      "#46102d",
+      "#631740"
+    ],
+    "mist": "#ddd0d7",
+    "mistDim": "#b096a4"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 2.82
+  },
+  "ife": {
+    "name": "E-BOX"
+  }
+}

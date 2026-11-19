@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "icao": "JAL",
+  "iata": "JL",
+  "name": "Japan Airlines",
+  "callsign": "JAPANAIR",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#cc0000",
+    "accentBright": "#ee2a2a",
+    "ground": [
+      "#130405",
+      "#1d0709",
+      "#2d0b0d",
+      "#461015",
+      "#63171d"
+    ],
+    "mist": "#ddd0d1",
+    "mistDim": "#b09698"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 4.27
+  },
+  "ife": {
+    "name": "MAGIC"
+  },
+  "cabinLight": {
+    "colours": [
+      "#B9A3D9",
+      "#F0A050"
+    ]
+  }
+}

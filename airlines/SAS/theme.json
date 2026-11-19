@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "icao": "SAS",
+  "iata": "SK",
+  "name": "SAS",
+  "callsign": "SCANDINAVIAN",
+  "version": "1.1.0",
+  "colors": {
+    "accent": "#3a66c8",
+    "accentBright": "#5a84e4",
+    "ground": [
+      "#040b13",
+      "#07111d",
+      "#0b1b2d",
+      "#102a46",
+      "#173b63"
+    ],
+    "mist": "#d0d6dd",
+    "mistDim": "#96a2b0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 2.85
+  },
+  "ife": {
+    "greeting": "Velkommen om bord"
+  },
+  "cabinLight": {
+    "colours": [
+      "#F3B07A"
+    ]
+  }
+}

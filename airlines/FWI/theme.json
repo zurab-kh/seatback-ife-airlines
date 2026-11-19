@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "icao": "FWI",
+  "iata": "TX",
+  "name": "Air Caraïbes",
+  "callsign": "FRENCH WEST",
+  "version": "1.1.0",
+  "lang": "fr",
+  "colors": {
+    "accent": "#2e7fc8",
+    "accentBright": "#4e9ae2",
+    "ground": [
+      "#040a12",
+      "#070f1d",
+      "#0b182d",
+      "#112546",
+      "#183462"
+    ],
+    "mist": "#d0d5dd",
+    "mistDim": "#96a0b0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 7.06
+  },
+  "ife": {
+    "greeting": "Bienvenue à bord"
+  }
+}

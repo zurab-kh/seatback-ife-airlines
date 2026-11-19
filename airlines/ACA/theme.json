@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "icao": "ACA",
+  "iata": "AC",
+  "name": "Air Canada",
+  "callsign": "AIR CANADA",
+  "version": "1.1.0",
+  "lang": "fr",
+  "colors": {
+    "accent": "#d22630",
+    "accentBright": "#ee4650",
+    "ground": [
+      "#070f1c",
+      "#0b1626",
+      "#13233a",
+      "#1f3655",
+      "#2c4a70"
+    ]
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 7.62
+  },
+  "ife": {
+    "greeting": "Bienvenue à bord"
+  }
+}

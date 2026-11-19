@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "icao": "DLH",
+  "iata": "LH",
+  "name": "Lufthansa",
+  "callsign": "LUFTHANSA",
+  "version": "1.1.0",
+  "lang": "de",
+  "colors": {
+    "accent": "#f2a900",
+    "accentBright": "#ffbf2e",
+    "ground": [
+      "#040813",
+      "#070c1d",
+      "#0b132d",
+      "#101d46",
+      "#172963"
+    ],
+    "mist": "#d0d3dd",
+    "mistDim": "#969cb0"
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 5.65
+  },
+  "ife": {
+    "greeting": "Willkommen an Bord"
+  },
+  "cabinLight": {
+    "colours": [
+      "#FFB46B",
+      "#D6E6FF"
+    ]
+  }
+}

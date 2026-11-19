@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "icao": "PIA",
+  "iata": "PK",
+  "name": "Pakistan International Airlines",
+  "callsign": "PAKISTAN",
+  "version": "1.0.0",
+  "colors": {
+    "accent": "#1f8f5a",
+    "accentBright": "#3cae76",
+    "ground": [
+      "#070f1c",
+      "#0b1626",
+      "#13233a",
+      "#1f3655",
+      "#2c4a70"
+    ]
+  },
+  "logo": {
+    "file": "logo.png",
+    "aspect": 3.29
+  }
+}
