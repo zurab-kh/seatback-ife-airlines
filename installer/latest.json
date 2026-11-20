@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.0",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.0/Seatback-IFE-Installer.exe",
+    "version":  "3.0.1",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.1/Seatback-IFE-Installer.exe",
     "size":  8887808,
-    "sha256":  "640426D8DA5FA9A4DE5F992CC6D97B72A7E76454C7FDBF91DA3EF4C6DB69BAD5",
-    "notes":  "The first version that updates itself: from now on new versions arrive through the app.\nA new look: each aircraft\u0027s page shows it full-screen, with its modules along the foot.\nThe airline table, settings and log are pages of the same window."
+    "sha256":  "ECCD66BB6463B313718E84789D38869BF71771B8BB08D7B64BB65163B1C7AEA8",
+    "notes":  "Test update: this release checks that updates through the app work.\nNothing else has changed since 3.0.0."
 }
