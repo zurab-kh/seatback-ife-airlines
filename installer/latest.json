@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.13",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.13/Seatback-IFE-Installer.exe",
-    "size":  9015296,
-    "sha256":  "068AC3E74B449B1A6F668119E9CBC937724F2AE8F2619672F4E04106E73836F7",
-    "notes":  "A350 and 777:\n• Fixed: Films that showed a black screen (HEVC/H.265 or AV1 videos) now play.\n• Fixed: Film sound is on by default; turn it off with Film sound in the tray menu.\n• Improved: Films are decoded by Edge on the graphics card, for smoother playback.\n• New: Films can also be .mov, .mkv or .webm files."
+    "version":  "3.0.14",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.14/Seatback-IFE-Installer.exe",
+    "size":  9016320,
+    "sha256":  "2CB381C785C13A58AC5F0BDA9C6A2014E840A1E81D5421D9CC96D88F3AC8968F",
+    "notes":  "App:\n• New: Settings has a Films section with an Open folder button for the folder your own films go in.\n• Improved: The films section lists the video formats that play best."
 }
