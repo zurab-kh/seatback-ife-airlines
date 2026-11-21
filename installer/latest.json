@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.16",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.16/Seatback-IFE-Installer.exe",
-    "size":  9028608,
-    "sha256":  "58C3928B42035B664E0C5DF6711109C406F008D3C29C1959B55070BC2FB9A18C",
-    "notes":  "A350 and 777:\n• Improved: Seat screens stay in the section the passenger picked for the whole flight, as real seatbacks do.\n• Improved: In Flight, the map and the flight data take turns again when a picked page is left alone for two minutes."
+    "version":  "3.0.17",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.17/Seatback-IFE-Installer.exe",
+    "size":  9029120,
+    "sha256":  "1E3D61C7AA30136946260C535495BA0B137C6479682ECA266CF07CE71587679D",
+    "notes":  "App:\n• Improved: The map on your phone fits the route better on tablets held upright."
 }
