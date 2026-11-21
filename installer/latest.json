@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.6",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.6/Seatback-IFE-Installer.exe",
-    "size":  8964096,
-    "sha256":  "551F7B89F7BFBFEBB59F7BA7D0641DBA46DF5CDFD6ABC8B686B00941B8DA70B4",
-    "notes":  "Easier to read: clearer font, larger and brighter text, lighter capitals. Map settings have their own group in Settings."
+    "version":  "3.0.7",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.7/Seatback-IFE-Installer.exe",
+    "size":  8970752,
+    "sha256":  "209209E98EC91E9098C996B502B956478CD51C908CAEB5DB86278D1530A0875C",
+    "notes":  "New:\n• Updates arrive while the app is open: it looks every 20 minutes and downloads in the background, so Update only restarts.\n• After an update, the app shows what\u0027s new.\nImproved:\n• Release notes are a clear list like this one.\nFixed:\n• A version published a few minutes earlier didn\u0027t show up."
 }
