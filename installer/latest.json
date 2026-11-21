@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.7",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.7/Seatback-IFE-Installer.exe",
-    "size":  8970752,
-    "sha256":  "209209E98EC91E9098C996B502B956478CD51C908CAEB5DB86278D1530A0875C",
-    "notes":  "New:\n• Updates arrive while the app is open: it looks every 20 minutes and downloads in the background, so Update only restarts.\n• After an update, the app shows what\u0027s new.\nImproved:\n• Release notes are a clear list like this one.\nFixed:\n• A version published a few minutes earlier didn\u0027t show up."
+    "version":  "3.0.8",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.8/Seatback-IFE-Installer.exe",
+    "size":  8971776,
+    "sha256":  "27647FB14B95DBC9B1DB89D7DADDC1EC5D1724A06CBF2ACC5D4B0455E1972C4A",
+    "notes":  "App:\n• Improved: Update notes are grouped by A350, 777 and the app, and each change says whether it is new, improved or fixed."
 }
