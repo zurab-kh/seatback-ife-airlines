@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.3",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.3/Seatback-IFE-Installer.exe",
-    "size":  8888320,
-    "sha256":  "F48F6035AEB934F856B7D586EE96AC5022BF969B7E485A4C1C0D3AFCA5AF9637",
-    "notes":  "Window shades no longer go dark at night. The seat badge is one plate. The test video boxes are gone."
+    "version":  "3.0.4",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.4/Seatback-IFE-Installer.exe",
+    "size":  8893440,
+    "sha256":  "2254323A9B674BD32A4CE5CEC36C0D2FD80D5F65465FF44E38F022BEADD4B7E2",
+    "notes":  "The app shows what Apply will do, or why it can\u0027t. Settings has an Apply to both button. Window shades no longer have a hole."
 }
