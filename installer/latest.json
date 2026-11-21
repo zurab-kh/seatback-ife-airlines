@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.9",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.9/Seatback-IFE-Installer.exe",
-    "size":  8971776,
-    "sha256":  "5653CB5B6253E1CDC7CBA6BD52D16B583038836DBB8376C459C6552C36CC8948",
-    "notes":  "App:\n• Improved: The aircraft card says plainly when a new version is ready and when it installs: Ready, and on the aircraft as soon as Flight Simulator is closed."
+    "version":  "3.0.10",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.10/Seatback-IFE-Installer.exe",
+    "size":  8975872,
+    "sha256":  "74AC0DDFB6F5E0DB417FA11DC799C996B7FE53CE301CB7130E8B18DD339A403A",
+    "notes":  "App:\n• Improved: The Airlines page opens at once.\n• Improved: Module cards press in when clicked."
 }
