@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.5",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.5/Seatback-IFE-Installer.exe",
+    "version":  "3.0.6",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.6/Seatback-IFE-Installer.exe",
     "size":  8964096,
-    "sha256":  "F2CB9F13BC0B01A149EF84F3AD2660EA799CF304BDF6695BEA67245847E9DC6F",
-    "notes":  "A350 cabin light: iniBuilds\u0027 own LED strips now glow in colour, two-tone scenes and airline colours. The map shows the route as passengers see it (Settings: Route on the map). New: Map on your phone, on your home Wi-Fi. YouTube videos kept off other sites now play."
+    "sha256":  "551F7B89F7BFBFEBB59F7BA7D0641DBA46DF5CDFD6ABC8B686B00941B8DA70B4",
+    "notes":  "Easier to read: clearer font, larger and brighter text, lighter capitals. Map settings have their own group in Settings."
 }
