@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.12",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.12/Seatback-IFE-Installer.exe",
-    "size":  9000448,
-    "sha256":  "EB79DDB789A509B985975E1792B5E8E8F0A2C8A4DA9182DF2C8011517B92C906",
-    "notes":  "A350:\n• Fixed: The cabin\u0027s strips and panels no longer blink between white and black: iniBuilds\u0027 cabin glow now follows the cabin light inside the aircraft\u0027s own files.\n• Improved: The LED strips fade smoothly on every frame, worked out by the aircraft\u0027s models.\n• New: Click a window shade to lower it a step (right click raises it, the mouse wheel moves it a little).\n777:\n• New: The seat screens take taps: every page, Wi-Fi, YouTube and films, as on the A350.\n• New: Cabin lighting (turn it on on the 777 card): PMDG\u0027s white, blue and orange cabin lights in scenes that follow the flight, with a sunrise after the sleep.\n• New: The curtains between the classes close in the cruise and open for take-off and landing.\nApp:\n• New: Finds other cabin mods on the aircraft and offers to remove them.\n• Fixed: A new version shows in the app the moment it is published.\n• Fixed: An install that stopped half way no longer blocks the next one."
+    "version":  "3.0.13",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.13/Seatback-IFE-Installer.exe",
+    "size":  9015296,
+    "sha256":  "068AC3E74B449B1A6F668119E9CBC937724F2AE8F2619672F4E04106E73836F7",
+    "notes":  "A350 and 777:\n• Fixed: Films that showed a black screen (HEVC/H.265 or AV1 videos) now play.\n• Fixed: Film sound is on by default; turn it off with Film sound in the tray menu.\n• Improved: Films are decoded by Edge on the graphics card, for smoother playback.\n• New: Films can also be .mov, .mkv or .webm files."
 }
