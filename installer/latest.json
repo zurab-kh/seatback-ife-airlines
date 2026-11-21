@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.10",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.10/Seatback-IFE-Installer.exe",
-    "size":  8975872,
-    "sha256":  "74AC0DDFB6F5E0DB417FA11DC799C996B7FE53CE301CB7130E8B18DD339A403A",
-    "notes":  "App:\n• Improved: The Airlines page opens at once.\n• Improved: Module cards press in when clicked."
+    "version":  "3.0.11",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.11/Seatback-IFE-Installer.exe",
+    "size":  8976896,
+    "sha256":  "F9B1F522F37CEEAE73BA133E65CF71494FB7948AB24FCCB655D1B99BAC38D405",
+    "notes":  "A350:\n• Fixed: The install no longer stops when the business seats already have a panel.cfg (from another cabin mod or an aircraft update); the seat screens are added beside it.\n777:\n• Fixed: The same for the 777\u0027s cabin."
 }
