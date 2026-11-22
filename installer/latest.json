@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.21",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.21/Seatback-IFE-Installer.exe",
-    "size":  9044992,
-    "sha256":  "9ABCEE5C53EC302BC732C5DE08FC07F61A19036AB6ABF8CCF314F47E3BD2C087",
-    "notes":  "A350:\n• New: Passengers page on the crew panel: watch passengers board seat by seat, synced with GSX.\n• New: Your airline\u0027s loyalty club: passengers are remembered between flights and earn miles and Silver, Gold or Platinum status.\n• New: Tap a seat to see its passenger: name, status, miles and what they ordered.\n• New: Orders arrive by seat with the passenger\u0027s name, with Accept and Served buttons.\n• New: Seat screens show when a meal is being prepared and when it has been served.\nA350 and 777:\n• Fixed: Films stop at once when you press Stop.\n• Fixed: YouTube finds Microsoft Edge on more PCs and says clearly when Edge didn\u0027t start.\nApp:\n• Improved: Updates download only when you press Update, and the notes show once.\n• Fixed: The Cabin app starts with the sim again on PCs where Windows blocked the change to exe.xml."
+    "version":  "3.0.22",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.22/Seatback-IFE-Installer.exe",
+    "size":  9062912,
+    "sha256":  "70364B2694B66E22F4E9296DF47C51BE0153D8A1B90AF6A86F17EA04F8132269",
+    "notes":  "A350 and 777:\n• New: Your own music on the seat screens: albums from Documents\\Seatback IFE\\Music, with their covers, and play, pause, next and previous.\n• New: Shortcuts work in the Films and Music folders: a shortcut to a film or album adds it, a shortcut to a folder adds everything in it. Nothing needs to be copied.\n• Improved: Films in folders inside the Films folder show too.\nApp:\n• New: Your music in Settings, with Open folder. The Cabin app\u0027s tray menu has Music sound and Open the music folder."
 }
