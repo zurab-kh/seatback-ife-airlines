@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.17",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.17/Seatback-IFE-Installer.exe",
-    "size":  9029120,
-    "sha256":  "1E3D61C7AA30136946260C535495BA0B137C6479682ECA266CF07CE71587679D",
-    "notes":  "App:\n• Improved: The map on your phone fits the route better on tablets held upright."
+    "version":  "3.0.18",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.18/Seatback-IFE-Installer.exe",
+    "size":  9009664,
+    "sha256":  "3CF52EC4C779682DDB8D5AD85C054097052A5C1F66EB10179BED11A8FB8DD529",
+    "notes":  "A350 and 777:\n• Fixed: When the Cabin app isn\u0027t running, the seat screens now say so instead of asking you to turn on an option that is already on.\n• New: The Movies page shows where your own films go (Documents\\Seatback IFE\\Films).\n• Improved: Every airline goes onto both aircraft, and new or updated airline designs from our server arrive by themselves.\nApp:\n• Improved: Each install checks that Flight Simulator will start the Cabin app (YouTube and films), fixes its entry in exe.xml, and test-starts it.\n• New: If Flight Simulator didn\u0027t start the Cabin app, the installer starts it. Settings shows whether it is running, with a Start now button.\n• Improved: Wi-Fi \u0026 films is on by default.\n• Improved: No more Airlines page, and Settings keep only what you set yourself. The rest keeps your earlier choices."
 }
