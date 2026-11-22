@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.25",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.25/Seatback-IFE-Installer.exe",
-    "size":  9065984,
-    "sha256":  "64280D53B4B3D27C3BA721BE707AF9BBE177036F7020E411D17A41E9F03BDCDE",
-    "notes":  "A350:\n• New: Films and YouTube can play on the whole screen\n• New: Your own music has a volume control\n777:\n• New: Films and YouTube can play on the whole screen\n• New: Your own music has a volume control"
+    "version":  "3.0.26",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.26/Seatback-IFE-Installer.exe",
+    "size":  9067008,
+    "sha256":  "0F3DF0994AEE8EC7CEBA6CE03CD149BEE0799434CDCCE423736825268791FBF8",
+    "notes":  "A350:\n• New: Films, YouTube and your music pause during a cabin announcement and carry on after it\n• Fixed: Cabin notices show on top of full-screen films and YouTube\n• Fixed: Long music titles no longer cover the player controls\n777:\n• New: Films, YouTube and your music pause during a cabin announcement and carry on after it\n• Fixed: Cabin notices show on top of full-screen films and YouTube\n• Fixed: Long music titles no longer cover the player controls"
 }
