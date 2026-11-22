@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.24",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.24/Seatback-IFE-Installer.exe",
-    "size":  9064448,
-    "sha256":  "1AD8B304EB0A6BC903A6FBB2D5FE2924AB61E1A2C5939B9430C58875F0B7AA9F",
-    "notes":  "A350:\n• New: The A350 ULR\u0027s business class and front wall screens show the IFE too\n• Improved: The screens are much brighter in daylight\n• Improved: A more premium look: softer light, deeper cards, finer titles\n• Fixed: A tap no longer counts twice, which could undo Add to bag, Play or mute\n• Fixed: Small buttons such as Order are easier to hit\n777:\n• Improved: A more premium look: softer light, deeper cards, finer titles\n• Fixed: A tap no longer counts twice, which could undo Add to bag, Play or mute\n• Fixed: Small buttons such as Order are easier to hit"
+    "version":  "3.0.25",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.25/Seatback-IFE-Installer.exe",
+    "size":  9065984,
+    "sha256":  "64280D53B4B3D27C3BA721BE707AF9BBE177036F7020E411D17A41E9F03BDCDE",
+    "notes":  "A350:\n• New: Films and YouTube can play on the whole screen\n• New: Your own music has a volume control\n777:\n• New: Films and YouTube can play on the whole screen\n• New: Your own music has a volume control"
 }
