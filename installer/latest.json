@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.31",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.31/Seatback-IFE-Installer.exe",
-    "size":  9115648,
-    "sha256":  "A1A0DB7A3164461DD1091C960176493FA064C291E905A6BC973554CDFC6D3C05",
-    "notes":  "A350:\n• Fixed: The A350-900 ULR business screens on the front walls showed iniBuilds\u0027 default picture instead of the seat screen.\n• Fixed: The A350-900 ULR cabin monitors by the galleys, lavatories and divider show the cabin pages instead of iniBuilds\u0027 logo."
+    "version":  "3.0.32",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.32/Seatback-IFE-Installer.exe",
+    "size":  9132032,
+    "sha256":  "22E93740498B4574618E9359CF052931B1C7A686BE3246EC8A96444CBEC60056",
+    "notes":  "A350:\n• Fixed: The four screens on the A350-900 ULR premium divider are the first row\u0027s seat screens again and take taps.\nApp:\n• New: Map on your phone now shows the seat screen itself: the same map, flight data and pages as on the seatback, and you can tap them.\n• Improved: The old simple phone map is still there at /basic on the same address."
 }
