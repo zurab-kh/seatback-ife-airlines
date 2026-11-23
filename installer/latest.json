@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.27",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.27/Seatback-IFE-Installer.exe",
-    "size":  9068032,
-    "sha256":  "721EDC80AE0D6B7B16BDC524019F950A184FA026FA7452535C13BF0472ADA18C",
-    "notes":  "A350:\n• Fixed: The galleys have their own light now, and it follows every cabin lighting scene"
+    "version":  "3.0.28",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.28/Seatback-IFE-Installer.exe",
+    "size":  9070592,
+    "sha256":  "630760F1C465B45D748CA073196645278BC186CA90961BAFA4C4D4E1B1DC1E46",
+    "notes":  "A350:\n• Fixed: The seat number no longer stays over a film or YouTube on the whole screen.\n• Fixed: Order and Add to bag work again for a dish or an item the crew has already served.\n777:\n• Fixed: Order and Add to bag work again for a dish or an item the crew has already served."
 }
