@@ -1,7 +1,7 @@
 {
-    "version":  "3.0.28",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.28/Seatback-IFE-Installer.exe",
-    "size":  9070592,
-    "sha256":  "630760F1C465B45D748CA073196645278BC186CA90961BAFA4C4D4E1B1DC1E46",
-    "notes":  "A350:\n• Fixed: The seat number no longer stays over a film or YouTube on the whole screen.\n• Fixed: Order and Add to bag work again for a dish or an item the crew has already served.\n777:\n• Fixed: Order and Add to bag work again for a dish or an item the crew has already served."
+    "version":  "3.0.29",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.0.29/Seatback-IFE-Installer.exe",
+    "size":  9078784,
+    "sha256":  "E2784A5E910BC1DC6CB3C2BBF29EA5C9561D1292D4EAFD6608CBBFC0A2BF6AC5",
+    "notes":  "A350:\n• New: With GSX Seated Passengers, the crew panel\u0027s seat plan shows passengers in the same seats as in the cabin.\n• Fixed: The crew panel\u0027s seat plan no longer empties after GSX boarding.\n• Fixed: The A350-900 ULR plan has its real 67 business suites.\n• Fixed: Duty free shows In your bag and a tick instead of an empty box.\n777:\n• Fixed: Duty free shows In your bag and a tick instead of an empty box.\nApp:\n• New: Map on your phone notices when Windows Firewall blocks the phone and allows it in one click."
 }
