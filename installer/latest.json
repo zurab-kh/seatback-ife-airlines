@@ -3,5 +3,5 @@
     "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.5.1/Seatback-IFE-Installer.exe",
     "size":  9163264,
     "sha256":  "F8B187F877D58DAF7F181A79B1A0EB663796B59D7DE449110B0EB20D5A6828E7",
-    "notes":  "A350 and 777:\n• Fixed: the sim\u0027s GPU memory exceeded warning with the mod. The seat screens now use about 45% less graphics memory.\n• Improved: screens nobody is looking at, for example while you sit in the flight deck, and switched-off cabin zones let go of their pictures.\nApp:\n• New: Sharp screens in Settings. Off by default: the seat screens are drawn at three quarters of the detail, which looks the same from the seat. Turn it on for full detail if your graphics card has memory to spare (it uses almost twice the graphics memory), then press Update on the aircraft card with the sim closed."
+    "notes":  "A350 and 777:\n• Fixed: The sim no longer warns that the GPU memory is full because of the mod.\n• Improved: Screens you can\u0027t see use no extra memory.\nApp:\n• New: Sharp screens switch in Settings. Off (default): uses much less graphics memory, the screens are only a little softer up close. On: the sharpest screens, for strong graphics cards. After changing it, press Update on the aircraft with the sim closed."
 }
