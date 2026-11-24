@@ -1,7 +1,7 @@
 {
-    "version":  "3.5.1",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.5.1/Seatback-IFE-Installer.exe",
-    "size":  9163264,
-    "sha256":  "F8B187F877D58DAF7F181A79B1A0EB663796B59D7DE449110B0EB20D5A6828E7",
-    "notes":  "A350 and 777:\n• Fixed: The sim no longer warns that the GPU memory is full because of the mod.\n• Improved: Screens you can\u0027t see use no extra memory.\nApp:\n• New: Sharp screens switch in Settings. Off (default): slightly lower screen quality, but less video memory (VRAM) used. On: the best screen quality. After changing it, press Update on the aircraft with the sim closed."
+    "version":  "3.5.2",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.5.2/Seatback-IFE-Installer.exe",
+    "size":  9164288,
+    "sha256":  "745B7EDC6741F54478BFDC36BB24234470A9E9B354481AEEA26E4642DF343C16",
+    "notes":  "App:\n• Improved: The window opens at the right size for your screen, with every setting in view.\n• Improved: Sharp screens explained in Settings. Off: slightly lower screen quality, but less video memory (VRAM) used. On: the best screen quality."
 }
