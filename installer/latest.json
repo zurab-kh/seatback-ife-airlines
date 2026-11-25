@@ -1,7 +1,7 @@
 {
-    "version":  "3.6.0",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.0/Seatback-IFE-Installer.exe",
-    "size":  9283584,
-    "sha256":  "85AA1FEFBAB56840DEC86FCADBEA0C4C80C6DC70F5F432F0D8221F27E50CC7FD",
-    "notes":  "A350:\n• New: Safety video: put your own video in Documents\\Seatback IFE\\Safety and name it safety (or safety THY for one airline only). It plays on every seat and wall screen as the pushback starts with the beacon on, instead of the safety cards. The cabin panel\u0027s Play Now plays it too.\n777:\n• New: Safety video: the same on the 777\u0027s seat screens, at pushback with the beacon on.\nApp:\n• Beta: the safety video is new and not tested on every setup yet. If it doesn\u0027t start or looks wrong, please tell us on Discord.\n• New: Settings \u003e Your safety video, with Open folder. MP4 (H.264) at 1280x720 or smaller plays best. Without a video, the safety cards play as before."
+    "version":  "3.6.1",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.1/Seatback-IFE-Installer.exe",
+    "size":  9309184,
+    "sha256":  "A761D289E0EF237653A1CCD4E2B6C1049FDF629A7A934E453139D09A8B963026",
+    "notes":  "App:\n• New: Changelog tab next to Log: every version since 3.0, newest first, with what each one brought. The version you have is marked, and a newer one has its Update now button there.\n• Improved: Beta changes are marked Beta in the update notes."
 }
