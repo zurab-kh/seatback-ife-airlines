@@ -1,7 +1,7 @@
 {
-    "version":  "3.6.1",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.1/Seatback-IFE-Installer.exe",
-    "size":  9309184,
-    "sha256":  "A761D289E0EF237653A1CCD4E2B6C1049FDF629A7A934E453139D09A8B963026",
-    "notes":  "App:\n• New: Changelog tab next to Log: every version since 3.0, newest first, with what each one brought. The version you have is marked, and a newer one has its Update now button there.\n• Improved: Beta changes are marked Beta in the update notes."
+    "version":  "3.6.2",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.2/Seatback-IFE-Installer.exe",
+    "size":  9313792,
+    "sha256":  "53B7C03153A660F092432988E7F8F645C23725B55A70EE99E51CEC34BB32F810",
+    "notes":  "A350:\n• New: Your own albums open as a track list, each track with its cover, so a passenger picks the song. Back returns to the albums.\n777:\n• Fixed: The bulkhead screens show only the flight info, the welcome and the safety briefing, and no longer take taps.\n• New: Your own albums open as a track list, each track with its cover, so a passenger picks the song. Back returns to the albums."
 }
