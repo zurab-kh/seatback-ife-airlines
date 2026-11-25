@@ -1,7 +1,7 @@
 {
-    "version":  "3.6.2",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.2/Seatback-IFE-Installer.exe",
+    "version":  "3.6.3",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.3/Seatback-IFE-Installer.exe",
     "size":  9313792,
-    "sha256":  "53B7C03153A660F092432988E7F8F645C23725B55A70EE99E51CEC34BB32F810",
-    "notes":  "A350:\n• New: Your own albums open as a track list, each track with its cover, so a passenger picks the song. Back returns to the albums.\n777:\n• Fixed: The bulkhead screens show only the flight info, the welcome and the safety briefing, and no longer take taps.\n• New: Your own albums open as a track list, each track with its cover, so a passenger picks the song. Back returns to the albums."
+    "sha256":  "28DE9EE5005662389A1405031A1D95F22075021B8CB98B29EEAA51D899C18478",
+    "notes":  "777:\n• Improved: Works with PMDG 777 2.4.147. After PMDG\u0027s update, press Install again on the 777 card."
 }
