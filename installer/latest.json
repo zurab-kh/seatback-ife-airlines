@@ -1,7 +1,7 @@
 {
-    "version":  "3.6.3",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.3/Seatback-IFE-Installer.exe",
-    "size":  9313792,
-    "sha256":  "28DE9EE5005662389A1405031A1D95F22075021B8CB98B29EEAA51D899C18478",
-    "notes":  "777:\n• Improved: Works with PMDG 777 2.4.147. After PMDG\u0027s update, press Install again on the 777 card."
+    "version":  "3.6.4",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.4/Seatback-IFE-Installer.exe",
+    "size":  9343488,
+    "sha256":  "AA5AF20FC53377B2CE6749A947997C4FD9A2684F0F0E9C87164179FBCC84168D",
+    "notes":  "A350 and 777:\n• New: Your own films show a poster: a picture with the film\u0027s name beside it (Movie.jpg), poster.jpg in its folder, or the picture Windows shows for the file.\n• Improved: Back to albums in an open album is now a clear button above the tracks.\n• Fixed: The safety video can\u0027t be heard from the flight deck with the door shut, and is quiet with it open.\n\nApp:\n• New: by Positive Rate and a Discord button at the top of every page, and a Made by block in Settings."
 }
