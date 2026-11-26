@@ -1,7 +1,7 @@
 {
-    "version":  "3.6.4",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.4/Seatback-IFE-Installer.exe",
+    "version":  "3.6.5",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.5/Seatback-IFE-Installer.exe",
     "size":  9343488,
-    "sha256":  "AA5AF20FC53377B2CE6749A947997C4FD9A2684F0F0E9C87164179FBCC84168D",
-    "notes":  "A350 and 777:\n• New: Your own films show a poster: a picture with the film\u0027s name beside it (Movie.jpg), poster.jpg in its folder, or the picture Windows shows for the file.\n• Improved: Back to albums in an open album is now a clear button above the tracks.\n• Fixed: The safety video can\u0027t be heard from the flight deck with the door shut, and is quiet with it open."
+    "sha256":  "1F010455BE009431E32E87765F109A9FFEC36B83853BF453AE75622040E59E15",
+    "notes":  "App:\n• Fixed: Small fixes in the app."
 }
