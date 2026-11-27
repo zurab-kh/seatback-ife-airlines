@@ -1,7 +1,7 @@
 {
-    "version":  "3.6.5",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.5/Seatback-IFE-Installer.exe",
-    "size":  9343488,
-    "sha256":  "1F010455BE009431E32E87765F109A9FFEC36B83853BF453AE75622040E59E15",
-    "notes":  "App:\n• Fixed: Small fixes in the app."
+    "version":  "3.6.6",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.6/Seatback-IFE-Installer.exe",
+    "size":  9361920,
+    "sha256":  "87D943B14C8F66CE22227DF1CBBB7B692F5C889FC30DAC54BDC6721DCE31EF3E",
+    "notes":  "A350 and 777:\n• Improved: Films, YouTube and the safety video play much smoother, every frame of the video in even steps. The safety video is now as smooth as a film.\n• Improved: Lighter on your PC: the seat screens do about half the work, and the screens no longer cast shadows of their own.\n• Improved: Airline logos take less graphics memory.\n• Fixed: Tapping a playing film to pause it sometimes did nothing.\nApp:\n• Improved: While nobody watches a video, the app stops drawing it and uses far less CPU. It plays videos on your PC\u0027s built-in graphics chip when there is one, leaving the graphics card\u0027s memory to the sim.\n• Improved: Film lengths are read much faster.\n• Improved: If Windows refuses an aircraft file during install, the log names the file.\n• Fixed: After the app closed unexpectedly, an old video could keep playing in the background."
 }
