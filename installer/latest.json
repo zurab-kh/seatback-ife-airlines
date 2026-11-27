@@ -1,7 +1,7 @@
 {
-    "version":  "3.6.7",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.7/Seatback-IFE-Installer.exe",
-    "size":  9362432,
-    "sha256":  "7094C1E3F0F03BDF54F0BC27C81ADEDE5AE3CC4EADF80F5FE1D34C1B9E5D31A5",
-    "notes":  "A350:\n• Fixed: On some Microsoft Store sims the install stopped with an APPX file error. It now goes on, and the log names the few cabin parts Windows keeps locked."
+    "version":  "3.6.8",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.8/Seatback-IFE-Installer.exe",
+    "size":  9364992,
+    "sha256":  "66669EC0D4158E5CDABAE9AE2C7EFC30EB300864EE7BE474239B74194BF9205F",
+    "notes":  ""
 }
