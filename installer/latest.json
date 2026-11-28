@@ -1,7 +1,7 @@
 {
-    "version":  "3.6.8",
-    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.8/Seatback-IFE-Installer.exe",
-    "size":  9364992,
-    "sha256":  "66669EC0D4158E5CDABAE9AE2C7EFC30EB300864EE7BE474239B74194BF9205F",
-    "notes":  ""
+    "version":  "3.6.9",
+    "url":  "https://github.com/zurab-kh/seatback-ife-airlines/releases/download/installer-v3.6.9/Seatback-IFE-Installer.exe",
+    "size":  9366016,
+    "sha256":  "5F082613E80BC9315FCBB2FB703B0F9B750CC02B775793F31D29601169C47E9E",
+    "notes":  "A350 and 777:\n• Fixed: More on Movies \u0026 TV and Music now shows your own films and albums too, not only the catalogue. With six or more of your own, it did nothing before.\nA350:\n• Fixed: On Microsoft Store sims where Windows locks a whole cabin folder, the install now finishes. Only that cabin keeps the iniBuilds screens.\nApp:\n• Fixed: If Windows doesn\u0027t let the app make the Films, Music or Safety folder in Documents, the Cabin app is still set up, and the log says which folder to make yourself."
 }
